@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# RYM Notes
+
+## Description
+
+Project Araxys is a Valorant inspired React UI built with TypeScript. Users can customize a UI profile based on their personally entered information and have it render accordingly to their lobby's profiles as a cool piece of tech.
